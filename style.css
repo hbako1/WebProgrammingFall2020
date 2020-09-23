@@ -1,0 +1,64 @@
+	Artist{
+	
+	font-style:"Arial";
+	font-size:14pt;
+	font-weight:"Bold";
+	color:"Moccasin";
+	
+	}
+	
+	Song Title{
+	
+	font-style:"Arial";
+	font-size:14pt;
+	font-weight:"Normal";
+	color:"Khaki";
+	
+	}
+	
+	Album{
+	
+	font-style:"Arial";
+	font-size:12pt;
+	font-weight:"Normal";
+	color:"Khaki";
+	
+	}
+	
+	Year{
+	
+	font-style:"Arial";
+	font-size:12pt;
+	font-weight:"Normal";
+	color:"ivory";
+	
+	}
+	
+	Background{
+	
+	color:"Chocolate";
+	
+	}
+	
+	Verse{
+	
+	font-style:"Trebuchet MS";
+	font-size:14pt;
+	font-weight:"Bold";
+	color:"gold";
+	margin-left:2cm;
+	margin-right:2cm;
+	
+	}
+	
+	Chorus{
+	
+	font-family:"Trebuchet MS";
+	font-size:14pt;
+	font-style:"Italic"
+	font-weight:"Bold";
+	color:"gold";
+	margin-left:4cm;
+	margin-right:4cm;
+	
+	}
