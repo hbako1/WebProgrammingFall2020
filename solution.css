@@ -1,0 +1,44 @@
+
+
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+#one{
+	float: right;
+}
+.flexbox-container {
+		display: flex;
+		justify-content: center;
+		width: 70%;
+		
+		
+	}
+
+.flexbox-item {
+	border: 1px solid #333;
+	background-color: #dfdfdf;
+	margin: 2em;
+	padding: 2em;
+	border-width: 4px;
+	border-color: #FF0000;
+	border-style: dashed;
+}
+
+.flexbox-item-1{
+	flex-basis: 33%;
+}
+
+.flexbox-item-2{
+	flex-basis: 67%;
+}
+
+
+
+
+	
